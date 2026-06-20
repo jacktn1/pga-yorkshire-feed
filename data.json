@@ -1,0 +1,301 @@
+{
+  "updated_at": "20 Jun 2026, 09:49",
+  "order_of_merit": [
+    {
+      "pos": "1",
+      "player": "James Walker",
+      "played": "3",
+      "points": "365.00"
+    },
+    {
+      "pos": "2",
+      "player": "Gareth Davies",
+      "played": "3",
+      "points": "285.00"
+    },
+    {
+      "pos": "3",
+      "player": "Robert Booth",
+      "played": "3",
+      "points": "263.33"
+    },
+    {
+      "pos": "4",
+      "player": "Reece Samson",
+      "played": "3",
+      "points": "261.45"
+    },
+    {
+      "pos": "5",
+      "player": "Richard Pace",
+      "played": "2",
+      "points": "250.00"
+    },
+    {
+      "pos": "T6",
+      "player": "Thomas Slattery",
+      "played": "3",
+      "points": "200.00"
+    },
+    {
+      "pos": "T6",
+      "player": "Ben Ratcliffe",
+      "played": "3",
+      "points": "200.00"
+    },
+    {
+      "pos": "8",
+      "player": "Carlo Ciullo",
+      "played": "2",
+      "points": "180.00"
+    },
+    {
+      "pos": "9",
+      "player": "Matt Brookfield",
+      "played": "1",
+      "points": "160.00"
+    },
+    {
+      "pos": "T10",
+      "player": "Fraser Kelley",
+      "played": "2",
+      "points": "140.00"
+    },
+    {
+      "pos": "T10",
+      "player": "Alex Belt",
+      "played": "1",
+      "points": "140.00"
+    },
+    {
+      "pos": "T10",
+      "player": "Thomas Curtis",
+      "played": "3",
+      "points": "140.00"
+    },
+    {
+      "pos": "T13",
+      "player": "James Millington",
+      "played": "3",
+      "points": "110.00"
+    },
+    {
+      "pos": "T13",
+      "player": "Michael Ramsden",
+      "played": "2",
+      "points": "110.00"
+    },
+    {
+      "pos": "15",
+      "player": "James French",
+      "played": "2",
+      "points": "103.33"
+    },
+    {
+      "pos": "16",
+      "player": "Stephen Roberts",
+      "played": "2",
+      "points": "85.00"
+    },
+    {
+      "pos": "T17",
+      "player": "Stephen Gromett",
+      "played": "3",
+      "points": "70.00"
+    },
+    {
+      "pos": "T17",
+      "player": "Aran Wainwright",
+      "played": "2",
+      "points": "70.00"
+    },
+    {
+      "pos": "19",
+      "player": "James Freeman",
+      "played": "2",
+      "points": "66.67"
+    },
+    {
+      "pos": "20",
+      "player": "Paul Mayoh",
+      "played": "3",
+      "points": "65.00"
+    },
+    {
+      "pos": "T21",
+      "player": "Ross Earnshaw",
+      "played": "1",
+      "points": "50.00"
+    },
+    {
+      "pos": "T21",
+      "player": "Oliver Adamson",
+      "played": "1",
+      "points": "50.00"
+    },
+    {
+      "pos": "T23",
+      "player": "William Whiteoak",
+      "played": "3",
+      "points": "46.67"
+    },
+    {
+      "pos": "T23",
+      "player": "James Drinkall",
+      "played": "1",
+      "points": "46.67"
+    },
+    {
+      "pos": "T23",
+      "player": "Rob Calderbank",
+      "played": "1",
+      "points": "46.67"
+    },
+    {
+      "pos": "T26",
+      "player": "Cameron Steedman",
+      "played": "1",
+      "points": "18.12"
+    },
+    {
+      "pos": "T26",
+      "player": "Daniel Walsh",
+      "played": "3",
+      "points": "18.12"
+    },
+    {
+      "pos": "T26",
+      "player": "Joshua Quinn",
+      "played": "2",
+      "points": "18.12"
+    },
+    {
+      "pos": "T26",
+      "player": "Andrew Rossington",
+      "played": "1",
+      "points": "18.12"
+    },
+    {
+      "pos": "T26",
+      "player": "Mark McGeehan",
+      "played": "2",
+      "points": "18.12"
+    },
+    {
+      "pos": "T26",
+      "player": "Ben Mason",
+      "played": "2",
+      "points": "18.12"
+    },
+    {
+      "pos": "T26",
+      "player": "Jason Proctor",
+      "played": "3",
+      "points": "18.12"
+    },
+    {
+      "pos": "T33",
+      "player": "James Walsh",
+      "played": "2",
+      "points": "16.67"
+    },
+    {
+      "pos": "T33",
+      "player": "Richard Law",
+      "played": "1",
+      "points": "16.67"
+    }
+  ],
+  "fixtures": [
+    {
+      "date": "26 Jun",
+      "event": "Knarsborough Pro Am — Knaresborough"
+    },
+    {
+      "date": "1 Jul",
+      "event": "Hessle Pro Am — Hessle GC"
+    },
+    {
+      "date": "7 Jul",
+      "event": "PGA in Yorkshire Champs OOM — Hull GC"
+    },
+    {
+      "date": "7 Jul",
+      "event": "PGA in Yorkshire seniors — Hull GC"
+    },
+    {
+      "date": "17 Jul",
+      "event": "Howley Hall Pro Am — Howley Hall GC"
+    },
+    {
+      "date": "20 Jul",
+      "event": "Pannal Golf Club Pro Am — Pannal GC"
+    },
+    {
+      "date": "22 Jul",
+      "event": "Ilkley Ladies Pro Am"
+    },
+    {
+      "date": "24 Jul",
+      "event": "North of England Championship Pro Am — Oakdale Golf Club"
+    },
+    {
+      "date": "27 Jul",
+      "event": "Premier Pro Am — Ganton GC"
+    },
+    {
+      "date": "31 Jul",
+      "event": "Hornsea Pro Am — Hornsea GC"
+    },
+    {
+      "date": "5 Aug",
+      "event": "Leeds golf centre pro am — Leeds Golf Centre - WR"
+    },
+    {
+      "date": "7 Aug",
+      "event": "Filey Pro Am — Filey GC"
+    },
+    {
+      "date": "14 Aug",
+      "event": "Wetherby pro am"
+    },
+    {
+      "date": "21 Aug",
+      "event": "Wakefield Pro-Am — Wakefield GC"
+    },
+    {
+      "date": "28 Aug",
+      "event": "Cleckheaton Pro Am"
+    },
+    {
+      "date": "2 Sep",
+      "event": "Woodsome Hall Pro-Am"
+    },
+    {
+      "date": "4 Sep",
+      "event": "Abbeydale Pro Am — Abbeydale Golf Club"
+    },
+    {
+      "date": "15 Sep",
+      "event": "Dawn Wilson Charity Pro Am OOM — Forest Park Golf Club"
+    },
+    {
+      "date": "18 Sep",
+      "event": "Dore & Totley Pro Am"
+    },
+    {
+      "date": "25 Sep",
+      "event": "Dewsbury Pro Am — Dewsbury District GC"
+    },
+    {
+      "date": "5 Oct",
+      "event": "Seniors match v Lincs — Huddersfield"
+    },
+    {
+      "date": "8 Oct",
+      "event": "Huddersfield Golf Club Pro am"
+    }
+  ],
+  "oom_count": 34,
+  "fixtures_count": 22
+}
