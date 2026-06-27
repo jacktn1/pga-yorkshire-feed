@@ -1,5 +1,5 @@
 {
-  "updated_at": "25 Jun 2026, 18:28",
+  "updated_at": "27 Jun 2026, 08:30",
   "order_of_merit": [
     {
       "pos": "1",
@@ -208,10 +208,6 @@
   ],
   "fixtures": [
     {
-      "date": "26 Jun",
-      "event": "Knarsborough Pro Am — Knaresborough"
-    },
-    {
       "date": "1 Jul",
       "event": "Hessle Pro Am — Hessle GC"
     },
@@ -260,10 +256,6 @@
       "event": "Wetherby pro am"
     },
     {
-      "date": "21 Aug",
-      "event": "Wakefield Pro-Am — Wakefield GC"
-    },
-    {
       "date": "28 Aug",
       "event": "Cleckheaton Pro Am"
     },
@@ -297,5 +289,5 @@
     }
   ],
   "oom_count": 34,
-  "fixtures_count": 22
+  "fixtures_count": 20
 }
