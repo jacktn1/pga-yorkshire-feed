@@ -1,5 +1,5 @@
 {
-  "updated_at": "29 Jun 2026, 11:58",
+  "updated_at": "2 Jul 2026, 20:05",
   "order_of_merit": [
     {
       "pos": "1",
@@ -208,10 +208,6 @@
   ],
   "fixtures": [
     {
-      "date": "1 Jul",
-      "event": "Hessle Pro Am — Hessle GC"
-    },
-    {
       "date": "7 Jul",
       "event": "PGA in Yorkshire Champs OOM — Hull GC"
     },
@@ -256,6 +252,10 @@
       "event": "Wetherby pro am"
     },
     {
+      "date": "17 Aug",
+      "event": "Dawn Wilson Trophy OOM — Darrington"
+    },
+    {
       "date": "28 Aug",
       "event": "Cleckheaton Pro Am"
     },
@@ -266,10 +266,6 @@
     {
       "date": "4 Sep",
       "event": "Abbeydale Pro Am — Abbeydale Golf Club"
-    },
-    {
-      "date": "15 Sep",
-      "event": "Dawn Wilson Charity Pro Am OOM — Forest Park Golf Club"
     },
     {
       "date": "18 Sep",
@@ -289,5 +285,5 @@
     }
   ],
   "oom_count": 34,
-  "fixtures_count": 20
+  "fixtures_count": 19
 }
