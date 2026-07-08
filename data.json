@@ -1,5 +1,5 @@
 {
-  "updated_at": "7 Jul 2026, 06:35",
+  "updated_at": "8 Jul 2026, 08:42",
   "order_of_merit": [
     {
       "pos": "1",
@@ -208,14 +208,6 @@
   ],
   "fixtures": [
     {
-      "date": "7 Jul",
-      "event": "PGA in Yorkshire Champs OOM — Hull GC"
-    },
-    {
-      "date": "7 Jul",
-      "event": "PGA in Yorkshire seniors — Hull GC"
-    },
-    {
       "date": "17 Jul",
       "event": "Howley Hall Pro Am — Howley Hall GC"
     },
@@ -285,5 +277,5 @@
     }
   ],
   "oom_count": 34,
-  "fixtures_count": 19
+  "fixtures_count": 17
 }
