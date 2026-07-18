@@ -1,5 +1,5 @@
 {
-  "updated_at": "17 Jul 2026, 08:49",
+  "updated_at": "18 Jul 2026, 08:18",
   "order_of_merit": [
     {
       "pos": "1",
@@ -232,10 +232,6 @@
   ],
   "fixtures": [
     {
-      "date": "17 Jul",
-      "event": "Howley Hall Pro Am — Howley Hall GC"
-    },
-    {
       "date": "20 Jul",
       "event": "Pannal Golf Club Pro Am — Pannal GC"
     },
@@ -301,5 +297,5 @@
     }
   ],
   "oom_count": 38,
-  "fixtures_count": 17
+  "fixtures_count": 16
 }
