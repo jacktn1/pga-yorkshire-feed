@@ -1,5 +1,5 @@
 {
-  "updated_at": "20 Jul 2026, 06:32",
+  "updated_at": "21 Jul 2026, 06:35",
   "order_of_merit": [
     {
       "pos": "1",
@@ -232,10 +232,6 @@
   ],
   "fixtures": [
     {
-      "date": "20 Jul",
-      "event": "Pannal Golf Club Pro Am — Pannal GC"
-    },
-    {
       "date": "22 Jul",
       "event": "Ilkley Ladies Pro Am"
     },
@@ -297,5 +293,5 @@
     }
   ],
   "oom_count": 38,
-  "fixtures_count": 16
+  "fixtures_count": 15
 }
