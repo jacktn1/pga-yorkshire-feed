@@ -1,5 +1,5 @@
 {
-  "updated_at": "22 Jul 2026, 14:49",
+  "updated_at": "23 Jul 2026, 18:57",
   "order_of_merit": [
     {
       "pos": "1",
@@ -232,10 +232,6 @@
   ],
   "fixtures": [
     {
-      "date": "22 Jul",
-      "event": "Ilkley Ladies Pro Am"
-    },
-    {
       "date": "24 Jul",
       "event": "North of England Championship Pro Am — Oakdale Golf Club"
     },
@@ -293,5 +289,5 @@
     }
   ],
   "oom_count": 38,
-  "fixtures_count": 15
+  "fixtures_count": 14
 }
