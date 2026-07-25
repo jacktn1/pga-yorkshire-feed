@@ -1,5 +1,5 @@
 {
-  "updated_at": "23 Jul 2026, 18:57",
+  "updated_at": "25 Jul 2026, 10:37",
   "order_of_merit": [
     {
       "pos": "1",
@@ -232,10 +232,6 @@
   ],
   "fixtures": [
     {
-      "date": "24 Jul",
-      "event": "North of England Championship Pro Am — Oakdale Golf Club"
-    },
-    {
       "date": "27 Jul",
       "event": "Premier Pro Am — Ganton GC"
     },
@@ -289,5 +285,5 @@
     }
   ],
   "oom_count": 38,
-  "fixtures_count": 14
+  "fixtures_count": 13
 }
