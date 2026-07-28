@@ -1,5 +1,5 @@
 {
-  "updated_at": "27 Jul 2026, 08:32",
+  "updated_at": "28 Jul 2026, 06:57",
   "order_of_merit": [
     {
       "pos": "1",
@@ -232,10 +232,6 @@
   ],
   "fixtures": [
     {
-      "date": "27 Jul",
-      "event": "Premier Pro Am — Ganton GC"
-    },
-    {
       "date": "31 Jul",
       "event": "Hornsea Pro Am — Hornsea GC"
     },
@@ -285,5 +281,5 @@
     }
   ],
   "oom_count": 38,
-  "fixtures_count": 13
+  "fixtures_count": 12
 }
