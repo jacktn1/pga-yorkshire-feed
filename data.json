@@ -1,5 +1,5 @@
 {
-  "updated_at": "30 Jul 2026, 11:03",
+  "updated_at": "7 Aug 2026, 11:43",
   "order_of_merit": [
     {
       "pos": "1",
@@ -232,14 +232,6 @@
   ],
   "fixtures": [
     {
-      "date": "31 Jul",
-      "event": "Hornsea Pro Am — Hornsea GC"
-    },
-    {
-      "date": "5 Aug",
-      "event": "Leeds golf centre pro am — Leeds Golf Centre - WR"
-    },
-    {
       "date": "7 Aug",
       "event": "Filey Pro Am — Filey GC"
     },
@@ -281,5 +273,5 @@
     }
   ],
   "oom_count": 38,
-  "fixtures_count": 12
+  "fixtures_count": 10
 }
