@@ -1,5 +1,5 @@
 {
-  "updated_at": "7 Aug 2026, 11:43",
+  "updated_at": "8 Aug 2026, 10:01",
   "order_of_merit": [
     {
       "pos": "1",
@@ -232,10 +232,6 @@
   ],
   "fixtures": [
     {
-      "date": "7 Aug",
-      "event": "Filey Pro Am — Filey GC"
-    },
-    {
       "date": "14 Aug",
       "event": "Wetherby pro am"
     },
@@ -273,5 +269,5 @@
     }
   ],
   "oom_count": 38,
-  "fixtures_count": 10
+  "fixtures_count": 9
 }
