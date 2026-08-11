@@ -1,5 +1,5 @@
 {
-  "updated_at": "10 Aug 2026, 07:48",
+  "updated_at": "11 Aug 2026, 09:19",
   "order_of_merit": [
     {
       "pos": "1",
@@ -260,14 +260,10 @@
       "event": "Dewsbury Pro Am — Dewsbury District GC"
     },
     {
-      "date": "5 Oct",
-      "event": "Seniors match v Lincs — Huddersfield"
-    },
-    {
       "date": "8 Oct",
       "event": "Huddersfield Golf Club Pro am"
     }
   ],
   "oom_count": 38,
-  "fixtures_count": 9
+  "fixtures_count": 8
 }
