@@ -1,5 +1,5 @@
 {
-  "updated_at": "13 Aug 2026, 07:34",
+  "updated_at": "15 Aug 2026, 11:22",
   "order_of_merit": [
     {
       "pos": "1",
@@ -232,10 +232,6 @@
   ],
   "fixtures": [
     {
-      "date": "14 Aug",
-      "event": "Wetherby pro am"
-    },
-    {
       "date": "17 Aug",
       "event": "Dawn Wilson Trophy OOM — Darrington"
     },
@@ -265,5 +261,5 @@
     }
   ],
   "oom_count": 38,
-  "fixtures_count": 8
+  "fixtures_count": 7
 }
