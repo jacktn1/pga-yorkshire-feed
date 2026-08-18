@@ -1,258 +1,260 @@
 {
-  "updated_at": "17 Aug 2026, 08:33",
+  "updated_at": "18 Aug 2026, 10:31",
   "order_of_merit": [
     {
       "pos": "1",
       "player": "James Walker",
-      "played": "4",
+      "played": "5",
       "points": "565.00"
     },
     {
       "pos": "2",
       "player": "Reece Samson",
-      "played": "5",
+      "played": "6",
       "points": "561.45"
     },
     {
       "pos": "3",
       "player": "Gareth Davies",
-      "played": "5",
-      "points": "392.50"
+      "played": "6",
+      "points": "539.17"
     },
     {
       "pos": "4",
-      "player": "Robert Booth",
-      "played": "4",
-      "points": "332.50"
+      "player": "Thomas Slattery",
+      "played": "5",
+      "points": "400.00"
     },
     {
       "pos": "5",
       "player": "Richard Pace",
-      "played": "3",
-      "points": "319.17"
+      "played": "4",
+      "points": "354.17"
     },
     {
       "pos": "6",
+      "player": "Ross Earnshaw",
+      "played": "3",
+      "points": "336.67"
+    },
+    {
+      "pos": "7",
+      "player": "Robert Booth",
+      "played": "5",
+      "points": "332.50"
+    },
+    {
+      "pos": "8",
+      "player": "Alex Belt",
+      "played": "3",
+      "points": "304.17"
+    },
+    {
+      "pos": "9",
+      "player": "Aran Wainwright",
+      "played": "4",
+      "points": "260.00"
+    },
+    {
+      "pos": "10",
       "player": "Michael Ramsden",
       "played": "3",
       "points": "250.00"
     },
     {
-      "pos": "7",
-      "player": "Alex Belt",
-      "played": "2",
-      "points": "209.17"
-    },
-    {
-      "pos": "T8",
-      "player": "Thomas Slattery",
-      "played": "4",
-      "points": "200.00"
-    },
-    {
-      "pos": "T8",
+      "pos": "11",
       "player": "Ben Ratcliffe",
       "played": "3",
       "points": "200.00"
     },
     {
-      "pos": "10",
-      "player": "Ross Earnshaw",
-      "played": "2",
-      "points": "190.00"
+      "pos": "12",
+      "player": "James French",
+      "played": "4",
+      "points": "198.33"
     },
     {
-      "pos": "11",
+      "pos": "13",
       "player": "Carlo Ciullo",
       "played": "2",
       "points": "180.00"
     },
     {
-      "pos": "12",
+      "pos": "14",
       "player": "Stephen Gromett",
-      "played": "4",
+      "played": "5",
       "points": "170.00"
     },
     {
-      "pos": "13",
-      "player": "Aran Wainwright",
+      "pos": "15",
+      "player": "Ben Mason",
       "played": "3",
-      "points": "165.00"
+      "points": "164.79"
     },
     {
-      "pos": "14",
+      "pos": "16",
       "player": "Matt Brookfield",
       "played": "1",
       "points": "160.00"
     },
     {
-      "pos": "15",
+      "pos": "17",
       "player": "David Mansell",
       "played": "1",
       "points": "150.00"
     },
     {
-      "pos": "16",
+      "pos": "18",
       "player": "Joe Coyle",
       "played": "3",
       "points": "145.00"
     },
     {
-      "pos": "T17",
+      "pos": "T19",
       "player": "Fraser Kelley",
-      "played": "2",
+      "played": "3",
       "points": "140.00"
     },
     {
-      "pos": "T17",
+      "pos": "T19",
       "player": "Thomas Curtis",
       "played": "3",
       "points": "140.00"
     },
     {
-      "pos": "T17",
+      "pos": "T19",
       "player": "James Ward",
       "played": "2",
       "points": "140.00"
     },
     {
-      "pos": "20",
+      "pos": "22",
       "player": "James Millington",
       "played": "3",
       "points": "110.00"
     },
     {
-      "pos": "21",
-      "player": "James French",
-      "played": "3",
-      "points": "103.33"
+      "pos": "23",
+      "player": "Luke Thornton",
+      "played": "4",
+      "points": "95.00"
     },
     {
-      "pos": "22",
+      "pos": "24",
       "player": "Stephen Roberts",
       "played": "3",
       "points": "85.00"
     },
     {
-      "pos": "23",
+      "pos": "25",
       "player": "James Freeman",
       "played": "2",
       "points": "66.67"
     },
     {
-      "pos": "24",
+      "pos": "26",
       "player": "Paul Mayoh",
       "played": "3",
       "points": "65.00"
     },
     {
-      "pos": "T25",
+      "pos": "27",
+      "player": "Cameron Steedman",
+      "played": "3",
+      "points": "53.12"
+    },
+    {
+      "pos": "T28",
       "player": "David Padgett",
-      "played": "1",
+      "played": "2",
       "points": "50.00"
     },
     {
-      "pos": "T25",
+      "pos": "T28",
       "player": "Matthew Skelton",
-      "played": "5",
+      "played": "6",
       "points": "50.00"
     },
     {
-      "pos": "T25",
+      "pos": "T28",
       "player": "Oliver Adamson",
       "played": "2",
       "points": "50.00"
     },
     {
-      "pos": "T28",
+      "pos": "T31",
       "player": "William Whiteoak",
       "played": "3",
       "points": "46.67"
     },
     {
-      "pos": "T28",
+      "pos": "T31",
       "player": "James Drinkall",
       "played": "1",
       "points": "46.67"
     },
     {
-      "pos": "T28",
+      "pos": "T31",
       "player": "Rob Calderbank",
       "played": "1",
       "points": "46.67"
     },
     {
-      "pos": "T31",
+      "pos": "T34",
       "player": "Joshua Newell",
       "played": "2",
       "points": "25.00"
     },
     {
-      "pos": "T31",
+      "pos": "T34",
       "player": "Nick Raybould",
       "played": "1",
       "points": "25.00"
     },
     {
-      "pos": "T33",
-      "player": "Cameron Steedman",
-      "played": "2",
-      "points": "18.12"
-    },
-    {
-      "pos": "T33",
+      "pos": "T36",
       "player": "Daniel Walsh",
       "played": "4",
       "points": "18.12"
     },
     {
-      "pos": "T33",
+      "pos": "T36",
       "player": "Joshua Quinn",
       "played": "3",
       "points": "18.12"
     },
     {
-      "pos": "T33",
+      "pos": "T36",
       "player": "Andrew Rossington",
       "played": "1",
       "points": "18.12"
     },
     {
-      "pos": "T33",
+      "pos": "T36",
       "player": "Mark McGeehan",
       "played": "3",
       "points": "18.12"
     },
     {
-      "pos": "T33",
-      "player": "Ben Mason",
-      "played": "2",
-      "points": "18.12"
-    },
-    {
-      "pos": "T33",
+      "pos": "T36",
       "player": "Jason Proctor",
-      "played": "4",
+      "played": "5",
       "points": "18.12"
     },
     {
-      "pos": "T40",
+      "pos": "T41",
       "player": "James Walsh",
       "played": "3",
       "points": "16.67"
     },
     {
-      "pos": "T40",
+      "pos": "T41",
       "player": "Richard Law",
       "played": "1",
       "points": "16.67"
     }
   ],
   "fixtures": [
-    {
-      "date": "17 Aug",
-      "event": "Dawn Wilson Trophy OOM — Darrington"
-    },
     {
       "date": "28 Aug",
       "event": "Cleckheaton Pro Am"
@@ -278,6 +280,6 @@
       "event": "Huddersfield Golf Club Pro am"
     }
   ],
-  "oom_count": 41,
-  "fixtures_count": 7
+  "oom_count": 42,
+  "fixtures_count": 6
 }
