@@ -1,5 +1,5 @@
 {
-  "updated_at": "27 Aug 2026, 09:16",
+  "updated_at": "28 Aug 2026, 08:28",
   "order_of_merit": [
     {
       "pos": "1",
@@ -219,12 +219,6 @@
     },
     {
       "pos": "T36",
-      "player": "Joshua Quinn",
-      "played": "3",
-      "points": "18.12"
-    },
-    {
-      "pos": "T36",
       "player": "Andrew Rossington",
       "played": "1",
       "points": "18.12"
@@ -242,13 +236,13 @@
       "points": "18.12"
     },
     {
-      "pos": "T41",
+      "pos": "T40",
       "player": "James Walsh",
       "played": "3",
       "points": "16.67"
     },
     {
-      "pos": "T41",
+      "pos": "T40",
       "player": "Richard Law",
       "played": "1",
       "points": "16.67"
@@ -280,6 +274,6 @@
       "event": "Huddersfield Golf Club Pro am"
     }
   ],
-  "oom_count": 42,
+  "oom_count": 41,
   "fixtures_count": 6
 }
