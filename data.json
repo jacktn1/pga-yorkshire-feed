@@ -1,5 +1,5 @@
 {
-  "updated_at": "28 Aug 2026, 08:28",
+  "updated_at": "29 Aug 2026, 07:32",
   "order_of_merit": [
     {
       "pos": "1",
@@ -250,10 +250,6 @@
   ],
   "fixtures": [
     {
-      "date": "28 Aug",
-      "event": "Cleckheaton Pro Am"
-    },
-    {
       "date": "2 Sep",
       "event": "Woodsome Hall Pro-Am"
     },
@@ -275,5 +271,5 @@
     }
   ],
   "oom_count": 41,
-  "fixtures_count": 6
+  "fixtures_count": 5
 }
