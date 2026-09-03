@@ -1,5 +1,5 @@
 {
-  "updated_at": "2 Sep 2026, 08:32",
+  "updated_at": "3 Sep 2026, 08:54",
   "order_of_merit": [
     {
       "pos": "1",
@@ -250,10 +250,6 @@
   ],
   "fixtures": [
     {
-      "date": "2 Sep",
-      "event": "Woodsome Hall Pro-Am"
-    },
-    {
       "date": "4 Sep",
       "event": "Abbeydale Pro Am — Abbeydale Golf Club"
     },
@@ -271,5 +267,5 @@
     }
   ],
   "oom_count": 41,
-  "fixtures_count": 5
+  "fixtures_count": 4
 }
