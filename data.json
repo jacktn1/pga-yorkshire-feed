@@ -1,5 +1,5 @@
 {
-  "updated_at": "4 Sep 2026, 07:39",
+  "updated_at": "5 Sep 2026, 08:15",
   "order_of_merit": [
     {
       "pos": "1",
@@ -250,10 +250,6 @@
   ],
   "fixtures": [
     {
-      "date": "4 Sep",
-      "event": "Abbeydale Pro Am — Abbeydale Golf Club"
-    },
-    {
       "date": "18 Sep",
       "event": "Dore & Totley Pro Am"
     },
@@ -267,5 +263,5 @@
     }
   ],
   "oom_count": 41,
-  "fixtures_count": 4
+  "fixtures_count": 3
 }
